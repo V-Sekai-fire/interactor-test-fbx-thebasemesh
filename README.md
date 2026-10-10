@@ -8,4 +8,4 @@ Each model sits beside a JSON record of its title, author, source and licence, a
 
 ## Licence
 
-Each model is under the licence its JSON record names, CC0 1.0.
+CC0 1.0. See [LICENSE](LICENSE). Each model is under the licence its JSON record names, CC0 1.0.
